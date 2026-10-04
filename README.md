@@ -28,7 +28,7 @@ Lumen is a colonoscopy assistant. It outlines and sizes polyps, flags lesions th
 | | What goes wrong | Evidence |
 |---|---|---|
 | **Missed lesions** | About **26%** of adenomas are missed during colonoscopy. | Zhao et al., *Gastroenterology* 2019 |
-| **Fragmented evidence** | “Images, lesion assessments and literature must be brought together into one clinical report.” | — |
+| **Fragmented evidence** | Images, lesion assessments and literature must be brought together into one clinical report. | — |
 | **Report overload** | Physicians spend nearly **2 hours** on desk and EHR work for every hour with patients. | Sinsky et al., *Ann Intern Med* 2016 |
 
 ## What Lumen does
