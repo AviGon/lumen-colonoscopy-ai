@@ -1,0 +1,7 @@
+Test set: 200 images (never seen in training)
+Mean Dice      0.9055  (median 0.9562)
+Mean IoU       0.8494  (median 0.9161)
+Mean precision 0.9311
+Mean recall    0.9127
+Images with Dice < 0.5: 6   Dice >= 0.9: 157
+Overlay legend: yellow = correct, red = false positive, green = missed

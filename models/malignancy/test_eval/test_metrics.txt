@@ -1,0 +1,94 @@
+Test split of ercpmp, gastrovision (never used for training or checkpoint selection; val split untouched)
+Model trained on: ercpmp + gastrovision
+Classes: benign, malignant
+
+== image_level_all: 183 samples ==
+              precision    recall  f1-score   support
+
+      benign      0.965     0.863     0.911       160
+   malignant      0.450     0.783     0.571        23
+
+    accuracy                          0.852       183
+   macro avg      0.708     0.823     0.741       183
+weighted avg      0.900     0.852     0.868       183
+
+Accuracy           0.8525
+Balanced accuracy  0.8226
+benign                 AP 0.981   ROC AUC 0.905
+malignant              AP 0.689   ROC AUC 0.905
+
+== patient_level_all: 150 samples ==
+              precision    recall  f1-score   support
+
+      benign      0.966     0.891     0.927       128
+   malignant      0.562     0.818     0.667        22
+
+    accuracy                          0.880       150
+   macro avg      0.764     0.854     0.797       150
+weighted avg      0.907     0.880     0.889       150
+
+Accuracy           0.8800
+Balanced accuracy  0.8544
+benign                 AP 0.977   ROC AUC 0.907
+malignant              AP 0.753   ROC AUC 0.907
+
+== image_level_ercpmp: 40 samples ==
+              precision    recall  f1-score   support
+
+      benign      0.968     0.789     0.870        38
+   malignant      0.111     0.500     0.182         2
+
+    accuracy                          0.775        40
+   macro avg      0.539     0.645     0.526        40
+weighted avg      0.925     0.775     0.835        40
+
+Accuracy           0.7750
+Balanced accuracy  0.6447
+benign                 AP 0.992   ROC AUC 0.855
+malignant              AP 0.225   ROC AUC 0.855
+
+== patient_level_ercpmp: 13 samples ==
+              precision    recall  f1-score   support
+
+      benign      1.000     0.917     0.957        12
+   malignant      0.500     1.000     0.667         1
+
+    accuracy                          0.923        13
+   macro avg      0.750     0.958     0.812        13
+weighted avg      0.962     0.923     0.934        13
+
+Accuracy           0.9231
+Balanced accuracy  0.9583
+benign                 AP 0.994   ROC AUC 0.917
+malignant              AP 0.500   ROC AUC 0.917
+
+== image_level_gastrovision: 143 samples ==
+              precision    recall  f1-score   support
+
+      benign      0.964     0.885     0.923       122
+   malignant      0.548     0.810     0.654        21
+
+    accuracy                          0.874       143
+   macro avg      0.756     0.847     0.788       143
+weighted avg      0.903     0.874     0.884       143
+
+Accuracy           0.8741
+Balanced accuracy  0.8474
+benign                 AP 0.978   ROC AUC 0.911
+malignant              AP 0.771   ROC AUC 0.911
+
+== patient_level_gastrovision: 137 samples ==
+              precision    recall  f1-score   support
+
+      benign      0.963     0.888     0.924       116
+   malignant      0.567     0.810     0.667        21
+
+    accuracy                          0.876       137
+   macro avg      0.765     0.849     0.795       137
+weighted avg      0.902     0.876     0.884       137
+
+Accuracy           0.8759
+Balanced accuracy  0.8487
+benign                 AP 0.976   ROC AUC 0.908
+malignant              AP 0.772   ROC AUC 0.908
+

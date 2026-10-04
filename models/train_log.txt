@@ -1,0 +1,26 @@
+Epoch 1/25 | loss 1.041 | train Dice 0.611 | lr 1.0e-04 | 24s/epoch | ETA 9m 34s
+Epoch 2/25 | loss 0.780 | train Dice 0.800 | lr 1.0e-04 | 24s/epoch | ETA 9m 0s
+Epoch 3/25 | loss 0.629 | train Dice 0.845 | lr 9.8e-05 | 23s/epoch | ETA 8m 32s
+Epoch 4/25 | loss 0.531 | train Dice 0.856 | lr 9.6e-05 | 23s/epoch | ETA 8m 12s
+Epoch 5/25 | loss 0.468 | train Dice 0.862 | lr 9.4e-05 | 23s/epoch | ETA 7m 46s
+Epoch 6/25 | loss 0.402 | train Dice 0.874 | lr 9.0e-05 | 23s/epoch | ETA 7m 24s
+Epoch 7/25 | loss 0.346 | train Dice 0.888 | lr 8.6e-05 | 24s/epoch | ETA 7m 6s
+Epoch 8/25 | loss 0.318 | train Dice 0.891 | lr 8.2e-05 | 23s/epoch | ETA 6m 38s
+Epoch 9/25 | loss 0.293 | train Dice 0.897 | lr 7.7e-05 | 23s/epoch | ETA 6m 12s
+Epoch 10/25 | loss 0.269 | train Dice 0.905 | lr 7.1e-05 | 24s/epoch | ETA 5m 53s
+Epoch 11/25 | loss 0.241 | train Dice 0.916 | lr 6.5e-05 | 24s/epoch | ETA 5m 31s
+Epoch 12/25 | loss 0.227 | train Dice 0.918 | lr 5.9e-05 | 24s/epoch | ETA 5m 6s
+Epoch 13/25 | loss 0.221 | train Dice 0.918 | lr 5.3e-05 | 24s/epoch | ETA 4m 43s
+Epoch 14/25 | loss 0.198 | train Dice 0.929 | lr 4.7e-05 | 23s/epoch | ETA 4m 18s
+Epoch 15/25 | loss 0.182 | train Dice 0.934 | lr 4.1e-05 | 24s/epoch | ETA 3m 56s
+Epoch 16/25 | loss 0.172 | train Dice 0.938 | lr 3.5e-05 | 24s/epoch | ETA 3m 33s
+Epoch 17/25 | loss 0.164 | train Dice 0.940 | lr 2.9e-05 | 23s/epoch | ETA 3m 5s
+Epoch 18/25 | loss 0.155 | train Dice 0.943 | lr 2.3e-05 | 23s/epoch | ETA 2m 41s
+Epoch 19/25 | loss 0.147 | train Dice 0.948 | lr 1.8e-05 | 23s/epoch | ETA 2m 19s
+Epoch 20/25 | loss 0.153 | train Dice 0.944 | lr 1.4e-05 | 24s/epoch | ETA 1m 57s
+Epoch 21/25 | loss 0.146 | train Dice 0.948 | lr 9.5e-06 | 24s/epoch | ETA 1m 34s
+Epoch 22/25 | loss 0.145 | train Dice 0.947 | lr 6.2e-06 | 23s/epoch | ETA 1m 9s
+Epoch 23/25 | loss 0.139 | train Dice 0.949 | lr 3.5e-06 | 23s/epoch | ETA 0m 46s
+Epoch 24/25 | loss 0.139 | train Dice 0.951 | lr 1.6e-06 | 24s/epoch | ETA 0m 23s
+Epoch 25/25 | loss 0.137 | train Dice 0.952 | lr 3.9e-07 | 24s/epoch | ETA 0m 0s
+Done in 9.8 min. Saved C:\polyp-project\models\polyp_unet_r34.pth

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Datasets (download separately, see README)
+data/
+
+# Experimental histology model (not part of this project's two methods)
+models/ercpmp/
+models/pathology_kumc_ercpmp/
+models/ercpmp_train_console.txt
+models/pathology_kumc_ercpmp_console.txt
+scripts/ercpmp/prepare_kumc.py
+
+# Patient images and generated case reports
+cases/
+reports/*/
+!reports/REPORT_*.md
+reports/REPORT_*_PATHOLOGY.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Pitch slides (kept locally, not in the repo)
+*.pptx

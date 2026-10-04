@@ -1,0 +1,8 @@
+metric,mean,median
+dice,0.9055,0.9562
+iou,0.8494,0.9161
+precision,0.9311,
+recall,0.9127,
+images_total,200,
+images_dice_ge_0.9,157,
+images_dice_lt_0.5,6,

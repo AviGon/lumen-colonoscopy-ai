@@ -1,0 +1,27 @@
+datasets: ['malignancy_prepared']
+Epoch 1/25 | train loss 2.519 acc 0.572 | test loss 1.980 acc 0.639 bal_acc 0.645 macroF1 0.534 | lr 3.0e-04 | 42s
+Epoch 2/25 | train loss 1.799 acc 0.634 | test loss 1.889 acc 0.672 bal_acc 0.794 macroF1 0.597 | lr 3.0e-04 | 19s
+Epoch 3/25 | train loss 1.180 acc 0.661 | test loss 1.508 acc 0.601 bal_acc 0.735 macroF1 0.537 | lr 3.0e-04 | 19s
+Epoch 4/25 | train loss 1.092 acc 0.713 | test loss 1.252 acc 0.667 bal_acc 0.735 macroF1 0.578 | lr 2.9e-04 | 19s
+Epoch 5/25 | train loss 0.977 acc 0.682 | test loss 1.115 acc 0.749 bal_acc 0.745 macroF1 0.632 | lr 2.8e-04 | 19s
+Epoch 6/25 | train loss 0.928 acc 0.733 | test loss 1.126 acc 0.760 bal_acc 0.732 macroF1 0.635 | lr 2.7e-04 | 18s
+Epoch 7/25 | train loss 0.891 acc 0.739 | test loss 1.093 acc 0.678 bal_acc 0.723 macroF1 0.581 | lr 2.6e-04 | 19s
+Epoch 8/25 | train loss 0.851 acc 0.734 | test loss 1.052 acc 0.607 bal_acc 0.756 macroF1 0.546 | lr 2.5e-04 | 19s
+Epoch 9/25 | train loss 0.837 acc 0.747 | test loss 1.044 acc 0.699 bal_acc 0.735 macroF1 0.598 | lr 2.3e-04 | 20s
+Epoch 10/25 | train loss 0.719 acc 0.771 | test loss 1.013 acc 0.716 bal_acc 0.763 macroF1 0.617 | lr 2.1e-04 | 19s
+Epoch 11/25 | train loss 0.746 acc 0.769 | test loss 0.926 acc 0.732 bal_acc 0.754 macroF1 0.625 | lr 2.0e-04 | 19s
+Epoch 12/25 | train loss 0.728 acc 0.766 | test loss 0.931 acc 0.858 bal_acc 0.807 macroF1 0.741 | lr 1.8e-04 | 19s
+Epoch 13/25 | train loss 0.688 acc 0.778 | test loss 0.961 acc 0.694 bal_acc 0.788 macroF1 0.610 | lr 1.6e-04 | 19s
+Epoch 14/25 | train loss 0.672 acc 0.790 | test loss 0.898 acc 0.814 bal_acc 0.782 macroF1 0.693 | lr 1.4e-04 | 19s
+Epoch 15/25 | train loss 0.656 acc 0.795 | test loss 0.880 acc 0.869 bal_acc 0.795 macroF1 0.747 | lr 1.2e-04 | 19s
+Epoch 16/25 | train loss 0.641 acc 0.788 | test loss 0.872 acc 0.836 bal_acc 0.832 macroF1 0.729 | lr 1.0e-04 | 19s
+Epoch 17/25 | train loss 0.626 acc 0.806 | test loss 0.853 acc 0.820 bal_acc 0.822 macroF1 0.712 | lr 8.6e-05 | 18s
+Epoch 18/25 | train loss 0.642 acc 0.802 | test loss 0.911 acc 0.874 bal_acc 0.816 macroF1 0.761 | lr 7.0e-05 | 18s
+Epoch 19/25 | train loss 0.621 acc 0.815 | test loss 0.870 acc 0.863 bal_acc 0.829 macroF1 0.754 | lr 5.4e-05 | 18s
+Epoch 20/25 | train loss 0.616 acc 0.824 | test loss 0.861 acc 0.902 bal_acc 0.869 macroF1 0.810 | lr 4.1e-05 | 18s
+Epoch 21/25 | train loss 0.660 acc 0.801 | test loss 0.854 acc 0.820 bal_acc 0.841 macroF1 0.718 | lr 2.9e-05 | 19s
+Epoch 22/25 | train loss 0.635 acc 0.810 | test loss 0.852 acc 0.885 bal_acc 0.841 macroF1 0.782 | lr 1.9e-05 | 19s
+Epoch 23/25 | train loss 0.608 acc 0.847 | test loss 0.840 acc 0.836 bal_acc 0.832 macroF1 0.729 | lr 1.1e-05 | 19s
+Epoch 24/25 | train loss 0.614 acc 0.814 | test loss 0.842 acc 0.847 bal_acc 0.838 macroF1 0.741 | lr 4.7e-06 | 19s
+Epoch 25/25 | train loss 0.631 acc 0.824 | test loss 0.844 acc 0.852 bal_acc 0.823 macroF1 0.741 | lr 1.2e-06 | 19s
+Done in 8.2 min. Saved models/malignancy\malignancy_effb0.pth (final epoch)
