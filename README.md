@@ -1,4 +1,4 @@
-#Winners of HealthLink Life Sciences Hackathon 2026 - Track 1 at UCSD!!
+# Winners of HealthLink Life Sciences Hackathon 2026 - Track 1 at UCSD!!
 
 # Lumen · Colonoscopy AI
 
